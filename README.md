@@ -1,7 +1,7 @@
 ### Hi there, I'm Jojo 👋
 I'm a former mechanical design engineer turned software engineer. 
 
-I've always been energized by creating something from ideas, and I'm having a blast building software apps so far!
+I've always been energized by creating something from ideas, and I'm having a blast building software apps!
 
 ## What I'm working with
 ### Front End
